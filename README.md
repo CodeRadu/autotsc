@@ -1,5 +1,5 @@
 # autotsc
-Automatically compile tsc on file save
+Automatically compile TS on file save
 ### Install
 After you downloaded autotsc run `npm i` to install deps  
 ### Run
